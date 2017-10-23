@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "register": 
     {
-      "id": 1,
-      "title": "hello"
+      "status": 200,
+      "message": "success"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  
 }
